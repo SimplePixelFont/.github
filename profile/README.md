@@ -1,6 +1,6 @@
 # SimplePixelFont Organization
 
-This is the home for SimplePixelFont (SPF) related developments. 
+This is the home for Simple Pixel Font (SPF) related developments. 
 
 # What is SPF?
 SPF is a binary format for storing bitmap fonts using a modular and expressive structure inspired by a modern table architecture.
