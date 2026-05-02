@@ -5,6 +5,11 @@ This is the home for Simple Pixel Font (SPF) related developments.
 # What is SPF?
 SPF is a binary format for storing bitmap fonts using a modular and expressive structure inspired by a modern table architecture.
 
+# Our Mission?
+* **Fully Featured:** SPF newest (documentation in the works) specification strives to be backwards compatible and fully featured format that remains **extremely** compact.
+* **Pixel fonts first:** TTF was made for vector fonts and thats amazing. SPF was made for pixel fonts and its users.
+* **Portability:** with the current progress in `spfc`, SPF will soon be able to compile to multicolored TTF fonts supporting emojis and many more modern font features. We will also support targets for specific bitmap and pixel font formats in the future.
+
 # Contribution Guidelines
 We value contributions a lot. Your collective efforts will allow SPF development to be quicker and streamlined.
 
