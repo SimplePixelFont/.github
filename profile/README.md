@@ -8,7 +8,7 @@ SPF is a binary format for storing bitmap fonts using a modular and expressive s
 # Our Mission?
 * **Fully Featured:** SPF newest (documentation in the works) specification strives to be backwards compatible and fully featured format that remains **extremely** compact.
 * **Pixel fonts first:** TTF was made for vector fonts and thats amazing. SPF was made for pixel fonts and its users.
-* **Portability:** SPF is designed to be compiled to standardized formats and integrate easily in your projects. `spfc` can compile to multicolored TTF fonts supporting emojis and many more modern font features. Or domain-specific formats like PICO-8 custom font cartidges (P8), with more formats supported planned.
+* **Portability:** SPF is designed to be compiled to standardized formats and integrate easily in your projects. `spfc` can compile to multicolored TTF fonts supporting emojis and many more modern font features. Or compile to domain-specific formats like PICO-8 custom font cartidges (P8), with more formats supported planned.
 
 # Contribution Guidelines
 We value contributions a lot. Your collective efforts will allow SPF development to be quicker and streamlined.
